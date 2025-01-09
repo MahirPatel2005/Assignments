@@ -1,4 +1,4 @@
-#LinkedIn API 
+# LinkedIn API 
 ## Postman API Documentation
 
 You can find the detailed API documentation for this project on Postman:
